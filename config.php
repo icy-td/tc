@@ -4,20 +4,16 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisan-static-demo.netlify.com',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'Tesla Charts',
+        'description' => 'Official Tesla Charts depository, with comments from the $TSLAQ legend himself.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Tesla Charts',
+        'twitter' => 'TESLAcharts'
     ],
     'services' => [
         'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
-        'cloudinary' => 'artisanstatic',
-        'jumprock' => 'artisanstatic',
     ],
     'collections' => [
         'posts' => [
