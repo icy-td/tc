@@ -19,6 +19,7 @@
 <body>
     <header>
         <nav>
+            <img src="/images/tc.png"><br>
             <strong>{{ $page->site->title }}</strong><br>
             <ul>
                 <li><a href="/">Home</a></li>
