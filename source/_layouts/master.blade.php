@@ -38,8 +38,7 @@
 
     <footer>
         <small>
-            This project is maintained by <a href="https://raniesantos.netlify.com">Ranie Santos</a>.
-            View the <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
+            Copyright 2019 (c) <a href="/">TESLACharts.net</a>
         </small>
     </footer>
 
