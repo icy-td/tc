@@ -17,7 +17,7 @@ return [
     ],
     'collections' => [
         'charts' => [
-            'path' => 'charts/{filename}',
+            'path' => 'posts/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
             'section' => 'postContent',
