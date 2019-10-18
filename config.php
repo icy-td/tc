@@ -16,7 +16,7 @@ return [
         'analytics' => 'UA-XXXXX-Y',
     ],
     'collections' => [
-        'charts' => [
+        'posts' => [
             'path' => 'posts/{filename}',
             'sort' => '-date',
             'extends' => '_layouts.post',
