@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="robots" content="noindex">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,7 +26,7 @@
                 <li><a href="/">Home</a></li>
                 <li><a href="/posts">Charts</a></li>
                 <li><a href="/about">About</a></li>
-                <li><a href="https://twitter.com/search?q=%24tslaq">$TSLAQ</a></li>
+                <li><a href="https://twitter.com/search?q=%24tslaq"><img src="https://abs.twimg.com/favicons/twitter.ico" border="0"> $TSLAQ</a></li>
             </ul>
         </nav>
     </header>
