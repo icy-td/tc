@@ -24,7 +24,7 @@
             <strong>{{ $page->site->title }}</strong><br>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="/posts">Charts</a></li>
+                <li><a href="/charts">Charts</a></li>
                 <li><a href="/about">About</a></li>
                 <li><a href="https://twitter.com/TESLAcharts"><img src="https://abs.twimg.com/favicons/twitter.ico" border="0"></a></li>
                 <li><a href="https://twitter.com/search?q=%24tslaq">$TSLAQ</a></li>
