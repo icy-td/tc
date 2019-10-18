@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', 'Posts')
+@section('title', 'Charts')
 
 @section('content')
     <h1>Charts</h1>
