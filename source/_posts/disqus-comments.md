@@ -1,5 +1,5 @@
 ---
-title: 04 - Disqus Comments
+title: Tesla New Income - Last 6 Quarters with Curren Quarter Prediction
 date: 2018-10-19T00:00:00.000Z
 tags:
   - tesla
