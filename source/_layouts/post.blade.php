@@ -12,24 +12,17 @@
 
     <p>
         <strong>{{ date('F j, Y', $page->date) }}</strong><br>
+    </p>
+    
+    @yield('postContent')
+
+    <hr>
+    
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
         @endforeach
-    </p>
-
-    <blockquote data-phpdate="{{ $page->date }}">
-        <em>WARNING: This post is over a year old. Some of the information this contains may be outdated.</em>
-    </blockquote>
-
-    <hr>
-
-    <p>DISCLAIMER: Any 3rd-party services in these posts and in the config are only recommendations/suggestions. I am not affiliated with any of them.</p>
-
-    @yield('postContent')
-
-    <hr>
-
+        
     @include('_partials.share')
 
     @if ($page->comments)
