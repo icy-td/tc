@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
-@section('title', "Posts tagged '{$page->name()}'")
+@section('title', "Charts tagged '{$page->name()}'")
 
 @section('content')
-    <h1>Posts tagged '{{ $page->name() }}'</h1>
+    <h1>Charts tagged '{{ $page->name() }}'</h1>
 
     <ul>
         @forelse (posts_filter($posts, $page) as $post)
