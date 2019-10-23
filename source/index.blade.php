@@ -7,4 +7,8 @@
 
     <blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">The mission of <a href="https://twitter.com/TESLAcharts?ref_src=twsrc%5Etfw">@TeslaCharts</a> is to unabashedly serve the confirmation bias of <a href="https://twitter.com/hashtag/Tesla?src=hash&amp;ref_src=twsrc%5Etfw">#Tesla</a> bears. We flow with the content curation current, providing exactly what bears most want to see. Especially helpful on days the stock goes up on bad news. Enjoy accordingly...</p>&mdash; TeslaCharts (@TESLAcharts) <a href="https://twitter.com/TESLAcharts/status/963119114804977667?ref_src=twsrc%5Etfw">February 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<hr>
+    <ul>
+    <li><strong>Live-ish</strong> - <em>10/22/2019</em> - TC.net is live, sort of. Work in progress. Whatever happened to those <a href="http://www.textfiles.com/underconstruction/" style="color:black;">Under Construction animated gifs of Web 1.0 yore</a>...</li>
+    </ul>
 @endsection
