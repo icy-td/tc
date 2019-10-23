@@ -45,7 +45,7 @@
 		<br><span style="display: block;text-align:center;background:white;"><span style="font-size:12px;">
 		<a href="https://elonmusk.today" style="color: teal;"><span style="display:block;">&lt;&lt; Elon Musk Today</span></a><a href="https://twitter.com/search?q=%24tslaq&amp;src=recent_search_click&amp;f=live" target="_blank" style="color: black;"><span style="font-size:11px;"><img src="/tslaq.png" border="0" alt="TSLAQ logo - anti-tesla activism"><br>$TSLAQ</span><br></a><a href="https://www.tesladeaths.com" style="color: teal;">TeslaDeaths.com &gt;&gt;</a></span></span>
 	 <!-- End TSLAQ webring -->
-	  <p><small>Copyright (c) 2019 <a href="/">TeslaCharts.com</a></small></p>
+	  <p><small>Copyright (c) 2019 <a href="/">TeslaCharts.net</a></small></p>
 	</footer>
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production, '_partials.analytics')
