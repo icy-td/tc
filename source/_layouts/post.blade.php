@@ -4,8 +4,6 @@
 
 @section('content')
     <h1>{{ $page->title }}</h1>
-
-    {{-- I know inline CSS isn't good, but this is just a template so you should change everything anyway --}}
     @if ($page->image)
         <img src="{{ $page->imageCdn($page->image) }}" style="object-fit: cover; height: 250px; width: 100%;">
     @endif
@@ -21,9 +19,7 @@
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
-        @endforeach
-        
-    @include('_partials.share')
+        @endforeach | @include('_partials.share')
 
     @if ($page->comments)
         @include('_partials.comments')
