@@ -42,7 +42,7 @@
       	  <script type="application/ld+json">
       	   {"@context":"https://schema.org","@type":"Organization","@id":"https://twitter.com/search?q=%24tslaq#organization","name":"TSLAQ","logo":"https://www.tesladeaths.com/tslaq.png","description":"Online anti-Tesla activist group.","url":"https://twitter.com/search?q=%24tslaq"}
 		</script>
-		<br><br><span style="display: block;text-align:center;background:white;"><span style="font-size:12px;">
+		<br><span style="display: block;text-align:center;background:white;"><span style="font-size:12px;">
 		<a href="https://elonmusk.today" style="color: teal;"><span style="display:block;">&lt;&lt; Elon Musk Today</span></a><a href="https://twitter.com/search?q=%24tslaq&amp;src=recent_search_click&amp;f=live" target="_blank" style="color: black;"><span style="font-size:11px;"><img src="/tslaq.png" border="0" alt="TSLAQ logo - anti-tesla activism"><br>$TSLAQ</span><br></a><a href="https://www.tesladeaths.com" style="color: teal;">TeslaDeaths.com &gt;&gt;</a></span></span>
 	 <!-- End TSLAQ webring -->
 	  <p><small>Copyright (c) 2019 <a href="/">TeslaCharts.com</a></small></p>
