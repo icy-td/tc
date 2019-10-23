@@ -1,6 +1,6 @@
 ---
 title: Tesla New Income - Last 6 Quarters with Current Quarter Prediction
-date: 2018-10-19T00:00:00.000Z
+date: 2019-10-19T00:00:00.000Z
 tags:
   - tesla
 image: ''
