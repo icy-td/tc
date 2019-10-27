@@ -1,6 +1,9 @@
 @extends('_layouts.master')
 
 @section('content')
+<script type="application/ld+json">
+
+</script>
     <h2>Welcome to TeslaCharts.net, the repository for the various Tesla-related data analyses provided by the fintwit Excel extraordinaire, <a href="https://www.twitter.com/TESLACharts" target="_blank">@TESLACharts</a>.</h2>
 
     <p>In case you didn't know, "TC" has an extensive background in solar technology, earned a Ph.D. in a related field, and immediately recognized something was afoot when Elon Musk delivered his infamous Solar City pitch in October 2016. Other information about the man is spotty by design, but we do encourage you listen to his guest podcasts on <a href="https://www.podbean.com/site/Search/index?v=quoth+teslacharts" target="_blank">Quoth the Raven</a>.</p>
