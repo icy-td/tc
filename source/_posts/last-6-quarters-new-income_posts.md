@@ -7,6 +7,6 @@ tags:
 image: ''
 comments: true
 ---
-<amp-img src="https://pbs.twimg.com/media/EHKxKA5WkAAHAku?format=jpg&name=medium"></amp-img>
+<amp-img src="https://pbs.twimg.com/media/EHKxKA5WkAAHAku.jpg"></amp-img>
 
 <p><img src="/dataset-icon.png" border="0"><a href="">Dataset Coming Soon</a> | <a href=""></a></p>
