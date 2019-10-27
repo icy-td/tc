@@ -6,7 +6,6 @@ tags:
   - income
 image: ''
 comments: true
-excerpt: Last 6 quarters with current quarter prediction ftw 
 ---
 <img src="https://pbs.twimg.com/media/EHKxKA5WkAAHAku?format=jpg&name=medium">
 
