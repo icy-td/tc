@@ -1,12 +1,13 @@
 <!-- search/social -->
 <meta name="referrer" content="always">
 <meta name="description" content="{!! $page->excerpt() ?: $page->site->description !!}">
-<link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
+<link rel="canonical" href="{{ $page->getUrl() }}">
 
 <meta property="og:title" content="{{ $page->title ?: $page->site->title }}">
 <meta property="og:description" content="{!! $page->excerpt() ?: $page->site->description !!}">
 <meta property="og:image" content="{{ $page->imageCdn($page->image ? $page->image : $page->site->image) }}">
 <meta property="og:type" content="{{ $page->isPost ? 'article' : 'website' }}">
+<meta property="og:url" content="{{ $page->getUrl() }}">
 
 <meta name="twitter:title" content="{{ $page->title ?: $page->site->title }}">
 <meta name="twitter:description" content="{!! $page->excerpt() ?: $page->site->description !!}">
