@@ -15,3 +15,6 @@
             <p>No posts to show.</p>
         @endforelse
     </ul>
+    <br>
+    <h1>Tags</h1>
+@endsection
