@@ -27,3 +27,4 @@
         <p>Comments are not enabled for this post.</p>
     @endif
 @endsection
+@section('description')
