@@ -2,6 +2,8 @@
 
 @section('title', $page->title)
 
+@section('description' $page->description)
+
 @section('content')
     <h1>{{ $page->title }}</h1>
     @if ($page->image)
@@ -27,4 +29,3 @@
         <p>Comments are not enabled for this post.</p>
     @endif
 @endsection
-@section('description' $page->description)
