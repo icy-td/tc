@@ -6,6 +6,6 @@ tags:
   - registrations
 comments: true
 ---
-<amp-img src="https://pbs.twimg.com/media/D7vkcS5X4AAO-lx?format=jpg&name=small"></amp-img>
+<img src="https://pbs.twimg.com/media/D7vkcS5X4AAO-lx?format=jpg&name=small">
 <br>
 <a href="https://twitter.com/TESLAcharts/status/1133750953193222146" target="_blank">Tweet</a>
