@@ -2,11 +2,11 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisan-static-demo.netlify.com',
+    'baseUrl' => 'https://www.teslacharts.net',
     'site' => [
         'title' => 'Tesla Charts',
-        'description' => 'Official Tesla Charts depository, with comments from the $TSLAQ legend himself.',
-        'image' => 'default-share.png',
+        'description' => 'Repository for all @TESLACharts charts about Tesla stock price, Tesla bonds, Tesla earnings, Tesla registrations, Model S and Model X sales, Tesla deliveries, etc.',
+        'image' => 'tc.png',
     ],
     'owner' => [
         'name' => 'Tesla Charts',
