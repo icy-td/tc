@@ -2,8 +2,6 @@
 
 @section('title', $page->title)
 
-@section('description' $page->description)
-
 @section('content')
     <h1>{{ $page->title }}</h1>
     @if ($page->image)
