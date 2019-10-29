@@ -5,6 +5,7 @@ tags:
   - tesla
   - registrations
 comments: true
+description: 'TeslaChart's Tesla Model S Registrations in Norway, Netherlands, Spain: Q2 Y-o-Y Comparison chart'
 ---
 <img src="https://pbs.twimg.com/media/D7vkcS5X4AAO-lx?format=jpg&name=medium">
 <br>
