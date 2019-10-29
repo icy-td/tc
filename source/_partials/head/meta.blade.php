@@ -12,7 +12,7 @@
 <meta name="twitter:title" content="{{ $page->title ?: $page->site->title }}">
 <meta name="twitter:description" content="{!! $page->excerpt() ?: $page->site->description !!}">
 <meta name="twitter:image" content="https://teslacharts.net/tc.png">
-<meta name="twitter:card" content="Repository for all @TESLACharts charts about Tesla stock price, Tesla bonds, Tesla earnings, Tesla registrations, Model S and Model X sales, Tesla deliveries, etc.">
+<meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="{{ "@{$page->owner->twitter}" }}">
 <meta name="twitter:creator" content="{{ "@{$page->owner->twitter}" }}">
 <!-- end search/social -->
