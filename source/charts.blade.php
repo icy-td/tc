@@ -18,6 +18,5 @@
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
-        @empty
-            <p>No tags! (whaaaaaaaat)</p>
+       @endforelse
 @endsection
