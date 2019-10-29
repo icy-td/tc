@@ -16,9 +16,7 @@
         @endforelse
     </ul>
     <br>
-@section('content')
     <h1>Tags</h1>
-    @yield('postContent')
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
