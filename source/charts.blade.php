@@ -13,12 +13,8 @@
             </li>
         @empty
             <p>No posts to show.</p>
-        @endforelse
+       @endforelse
     </ul>
     <br>
     <h1>Tags</h1>
-        @foreach ($page->tags as $tag)
-            <a href="/tags/{{ $tag }}">{{ $tag }}</a>
-            {{ $loop->last ? '' : '-' }}
-
 @endsection
