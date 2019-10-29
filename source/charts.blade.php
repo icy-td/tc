@@ -15,8 +15,10 @@
             <p>No posts to show.</p>
        @endforelse
     <h1>Tags</h1>
-        @foreach ($page->tags as $tag)
+        @forelse ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
+        @empty
+            <p>No posts to show.</p>
        @endforelse
 @endsection
