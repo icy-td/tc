@@ -5,8 +5,8 @@ tags:
   - Model 3
   - deliveries
   - tesla
-comments: true
+comments: false
 ---
-<img src="https://pbs.twimg.com/media/EGm2EpKWoAIyHVh?format=jpg&name=small">
+<img src="https://pbs.twimg.com/media/EGm2EpKWoAIyHVh?format=jpg&name=medium">
 <br>
 <a href="https://twitter.com/TESLAcharts/status/1182676573125828609" target="_blank">Tweet</a>
