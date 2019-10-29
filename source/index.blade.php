@@ -16,7 +16,7 @@
 <h3>Site News</H3>
 
     <br><ul>
-    <li><strong>Live!</strong> - <em>10/29/2019</em> - Indexing and tweeted.</li>
+    <li><strong>Live!</strong> - <em>10/29/2019</em> - Indexing and tweeted. Will continue to backfill.</li>
     <li><strong>Live-ish</strong> - <em>10/22/2019</em> - TC.net is live, sort of. Work in progress. Whatever happened to those <a href="http://www.textfiles.com/underconstruction/" style="color:black;">Under Construction animated gifs of Web 1.0 yore</a>...</li>
     </ul>
 
