@@ -9,4 +9,6 @@ comments: false
 ---
 <img src="https://pbs.twimg.com/media/EGm2EpKWoAIyHVh?format=jpg&name=medium">
 <br>
+"$TSLA is basically a Model 3 company now. That and solar money printers I suppose."
+<br>
 <a href="https://twitter.com/TESLAcharts/status/1182676573125828609" target="_blank">Tweet</a>
