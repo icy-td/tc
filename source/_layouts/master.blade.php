@@ -18,6 +18,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <title>@yield('title'){{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}{{ $page->site->title }}</title>
     @include('_partials.head.favicon')  
     @include('_partials.cms.identity_widget')
+    <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
   </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
