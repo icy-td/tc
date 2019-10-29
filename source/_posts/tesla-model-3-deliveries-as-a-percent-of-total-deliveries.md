@@ -1,6 +1,7 @@
 ---
 title: Tesla Model 3 Deliveries as a Percent of Total Deliveries
 date: 2019-10-11T16:14:07.183Z
+description: TeslaChart's Tesla Model 3 Deliveries as a Percent of Total Deliveries chart
 tags:
   - Model 3
   - deliveries
