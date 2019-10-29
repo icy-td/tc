@@ -12,7 +12,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
  <script type="application/ld+json">
     {"@context":"https://schema.org","@type":"WebSite","name":"TESLACharts.net","logo":"https://teslacharts.net/tc.png","description":"Repository for all @TESLACharts charts about Tesla stock price, Tesla bonds, Tesla earnings, Tesla registrations, Model S and Model X sales, Tesla deliveries, etc.","url":"https://www.teslacharts.net"}
 </script>
-    <meta name="robots" content="noindex">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
