@@ -1,7 +1,7 @@
 ---
 title: 'Tesla Source of Sequential Earnings Improvement: Q3 2019 vs Q2 2019'
 date: 2019-10-23T19:47:25.952Z
-excerpt: 'The TeslaCharts chart called Tesla Source of Sequential Earnings Improvement: Q3 2019 vs Q2 2019'
+description: The TeslaCharts chart called Tesla Source of Sequential Earnings Improvement: Q3 2019 vs Q2 2019
 tags:
   - tesla
   - earnings
