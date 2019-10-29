@@ -16,11 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <script async src="https://cdn.ampproject.org/v0.js"></script>
-    <title>
-        @yield('title')
-        {{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}
-        {{ $page->site->title }}
-    </title>
+    <title>@yield('title'){{ !empty($__env->yieldContent('title')) ? ' | ' : '' }}{{ $page->site->title }}</title>
 
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
