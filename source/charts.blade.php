@@ -14,11 +14,4 @@
         @empty
             <p>No posts to show.</p>
        @endforelse
-    <h1>Tags</h1>
-        @forelse ($tag)
-            <a href="/tags/{{ $tag }}">{{ $tag }}</a>
-            {{ $loop->last ? '' : '-' }}
-        @empty
-            <p>No posts to show.</p>
-       @endforelse
 @endsection
