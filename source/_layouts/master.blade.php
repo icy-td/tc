@@ -31,7 +31,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <strong>{{ $page->site->title }}</strong><br>
             <ul>
                 <li><a href="/">About TESLACharts</a></li>
-                <li><a href="/charts">The Charts</a></li>
+                <li><a href="/charts/">The Charts</a></li>
                 <li><a href="https://twitter.com/TESLAcharts" target="_blank"><img src="https://abs.twimg.com/favicons/twitter.ico" border="0"></a></li>
                 <li><a href="https://twitter.com/search?q=%24tslaq" target="_blank">$TSLAQ</a></li>
             </ul>
