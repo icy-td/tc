@@ -8,4 +8,7 @@ tags:
   - Q2 2019
 comments: false
 ---
-<img src="https://pbs.twimg.com/media/EHnIWgOWwAAsQ_l?format=jpg&name=medium"><br><a href="https://twitter.com/TESLAcharts/status/1187200270410960896">Tweet</a>
+<img src="https://pbs.twimg.com/media/EHnIWgOWwAAsQ_l?format=jpg&name=medium">
+"All this on $47MM less revenue sequentially.<br>
+Everything is awesome!<br>
+$TSLAQ"<br><a href="https://twitter.com/TESLAcharts/status/1187200270410960896">Tweet</a>
