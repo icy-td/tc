@@ -8,7 +8,7 @@
     <ul>
         @forelse ($posts->sortBy('date') as $post)
             <li>
-                <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
+                <a href="{{ $post->getPath() }}/">{{ $post->title }}</a>
                 <small>{{ date('M j, Y', $post->date) }}</small>
             </li>
         @empty
