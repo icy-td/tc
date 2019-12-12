@@ -8,7 +8,7 @@
 
     <div class="quoty"><blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">The mission of <a href="https://twitter.com/TESLAcharts?ref_src=twsrc%5Etfw">@TeslaCharts</a> is to unabashedly serve the confirmation bias of <a href="https://twitter.com/hashtag/Tesla?src=hash&amp;ref_src=twsrc%5Etfw">#Tesla</a> bears. We flow with the content curation current, providing exactly what bears most want to see. Especially helpful on days the stock goes up on bad news. Enjoy accordingly...</p>&mdash; TeslaCharts (@TESLAcharts) <a href="https://twitter.com/TESLAcharts/status/963119114804977667?ref_src=twsrc%5Etfw"  target="_blank">February 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
     <br>
-    <img src="https://www.teslacharts.net/Tesla%20Charts%20TC%20Chartcast.jpg">
+    <a href="https://episodes.buzzsprout.com/fhfgy28sti8f3snyf4xt48plzlhw?" target="_blank"><img src="https://www.teslacharts.net/Tesla%20Charts%20TC%20Chartcast.jpg"></a>
 <hr width="80%">
 
 <h3>Site News</H3>
