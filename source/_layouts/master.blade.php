@@ -9,7 +9,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-MJHJKTG');</script>
 <!-- End Google Tag Manager -->
  <script type="application/ld+json">
-    {"@context":"https://schema.org","@type":"WebSite","name":"TESLACharts.net", "isPartOf":"https://twitter.com/search?q=%24tslaq#organization", "logo":"https://teslacharts.net/tc.png","description":"Repository for all @TESLACharts charts about Tesla stock price, Tesla bonds, Tesla earnings, Tesla registrations, Model S and Model X sales, Tesla deliveries, etc.","url":"https://www.teslacharts.net"}
+    {"@context":"https://schema.org","@type":"WebSite","name":"TESLACharts.net", "logo":"https://teslacharts.net/tc.png","description":"Repository for all @TESLACharts charts about Tesla stock price, Tesla bonds, Tesla earnings, Tesla registrations, Model S and Model X sales, Tesla deliveries, etc.","url":"https://www.teslacharts.net","sourceOrganization": {"@type": "Organization", "name": "TSLAQ"}}
 </script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -45,9 +45,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </article>
 	<footer>
 	 <!-- Start TSLAQ webring -->
-      	  <script type="application/ld+json">
-      	   {"@context":"https://schema.org","@type":"Organization","@id":"https://twitter.com/search?q=%24tslaq#organization","name":"TSLAQ","logo":"https://www.tesladeaths.com/tslaq.png","description":"Online anti-Tesla activist group.","url":"https://twitter.com/search?q=%24tslaq"}
-		</script>
 		<br><span style="display: block;text-align:center;background:white;"><span style="font-size:12px;">
 		<a href="https://elonmusk.today" style="color: teal;"><span style="display:block;">&lt;&lt; Elon Musk Today</span></a><a href="https://twitter.com/search?q=%24tslaq&amp;src=recent_search_click&amp;f=live" target="_blank" style="color: black;"><span style="font-size:11px;"><img src="/tslaq.png" border="0" alt="TSLAQ logo - anti-tesla activism"><br>$TSLAQ</span><br></a><a href="https://www.tesladeaths.com" style="color: teal;">TeslaDeaths.com &gt;&gt;</a></span></span>
 	 <!-- End TSLAQ webring -->
