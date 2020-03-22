@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
+ <link rel="alternate" type="application/rss+xml" title="Podcast"
+          href="https://feeds.buzzsprout.com/758369.rss"/>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -48,7 +50,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<br><span style="display: block;text-align:center;background:white;"><span style="font-size:12px;">
 		<a href="https://elonmusk.today" style="color: teal;"><span style="display:block;">&lt;&lt; Elon Musk Today</span></a><a href="https://twitter.com/search?q=%24tslaq&amp;src=recent_search_click&amp;f=live" target="_blank" style="color: black;"><span style="font-size:11px;"><img src="/tslaq.png" border="0" alt="TSLAQ logo - anti-tesla activism"><br>$TSLAQ</span><br></a><a href="https://www.tesladeaths.com" style="color: teal;">TeslaDeaths.com &gt;&gt;</a></span></span>
 	 <!-- End TSLAQ webring -->
-	  <p><small>Copyright (c) 2019 <a href="/">TeslaCharts.net</a></small></p>
+	  <p><small>Copyright (c) 2020 <a href="/">TeslaCharts.net</a></small></p>
 	</footer>
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production, '_partials.analytics')
