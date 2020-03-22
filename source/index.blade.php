@@ -9,7 +9,24 @@
     <div class="quoty"><blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">The mission of <a href="https://twitter.com/TESLAcharts?ref_src=twsrc%5Etfw">@TeslaCharts</a> is to unabashedly serve the confirmation bias of <a href="https://twitter.com/hashtag/Tesla?src=hash&amp;ref_src=twsrc%5Etfw">#Tesla</a> bears. We flow with the content curation current, providing exactly what bears most want to see. Especially helpful on days the stock goes up on bad news. Enjoy accordingly...</p>&mdash; TeslaCharts (@TESLAcharts) <a href="https://twitter.com/TESLAcharts/status/963119114804977667?ref_src=twsrc%5Etfw"  target="_blank">February 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
     <br>
     <hr width="80%">
-    <div style="text-align:center;"><a href="https://www.buzzsprout.com/758369" target="_blank"><img src="https://www.teslacharts.net/chartcast-banner.png"></a></div>
+    <strong>Check out TC's hella cool podcast, <a href="https://www.tcchartcast.com" target="_blank">TC's ChartCast</a>!<br />
+    <div style="text-align:center;"><a href="https://www.tcchartcast.com" target="_blank"><img src="https://www.teslacharts.net/chartcast-banner.png"></a></div>
+<div class="listen-modal__list" data-target="listing.iconList">
+    
+  <a class="listen-modal__item--apple" target="_blank" href="https://podcasts.apple.com/us/podcast/tcs-chartcast/id1491394342?uo=4">Apple Podcasts</a>
+  <a class="listen-modal__item--spotify" target="_blank" href="https://open.spotify.com/show/1s0ByYoNzfElpRQpiYC0hX">Spotify</a>
+  <a class="listen-modal__item--google" target="_blank" href="https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">Google Podcasts</a>
+  <a class="listen-modal__item--stitcher" target="_blank" href="https://www.stitcher.com/podcast/tcs-chartcast">Stitcher</a>
+  
+  
+  <a class="listen-modal__item--overcast" target="_blank" href="https://overcast.fm/itunes1491394342">Overcast</a>
+  <a class="listen-modal__item--pocketcast" target="_blank" href="http://pca.st/itunes/1491394342">Pocket Cast</a>
+  <a class="listen-modal__item--castro" target="_blank" href="https://castro.fm/itunes/1491394342">Castro</a>
+  <a class="listen-modal__item--castbox" target="_blank" href="http://castbox.fm/vic/1491394342?ref=buzzsprout">Castbox</a>
+  <a class="listen-modal__item--podchaser" target="_blank" href="https://www.podchaser.com/f/pod/1491394342">Podchaser</a>
+  <a class="listen-modal__item--rss" target="_blank" href="https://feeds.buzzsprout.com/758369.rss">RSS Feed</a>
+
+</div>
 <hr width="80%">
 
 <h3>Site News</H3>
