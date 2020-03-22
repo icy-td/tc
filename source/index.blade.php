@@ -9,8 +9,9 @@
     <div class="quoty"><blockquote class="twitter-tweet" data-theme="light"><p lang="en" dir="ltr">The mission of <a href="https://twitter.com/TESLAcharts?ref_src=twsrc%5Etfw">@TeslaCharts</a> is to unabashedly serve the confirmation bias of <a href="https://twitter.com/hashtag/Tesla?src=hash&amp;ref_src=twsrc%5Etfw">#Tesla</a> bears. We flow with the content curation current, providing exactly what bears most want to see. Especially helpful on days the stock goes up on bad news. Enjoy accordingly...</p>&mdash; TeslaCharts (@TESLAcharts) <a href="https://twitter.com/TESLAcharts/status/963119114804977667?ref_src=twsrc%5Etfw"  target="_blank">February 12, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
     <br>
     <hr width="80%">
+    <div style="text-align:center;">
     <strong>Check out TC's hella cool podcast, <a href="https://www.tcchartcast.com" target="_blank">TC's ChartCast</a>!<br />
-    <div style="text-align:center;"><a href="https://www.tcchartcast.com" target="_blank"><img src="https://www.teslacharts.net/chartcast-banner.png"></a></div>
+    <a href="https://www.tcchartcast.com" target="_blank"><img src="https://www.teslacharts.net/chartcast-banner.png"></a></div>
 <div class="listen-modal__list" data-target="listing.iconList">
     
   <a class="listen-modal__item--apple" target="_blank" href="https://podcasts.apple.com/us/podcast/tcs-chartcast/id1491394342?uo=4">Apple Podcasts</a>
