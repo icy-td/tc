@@ -27,6 +27,7 @@
   <a class="listen-modal__item--podchaser" target="_blank" href="https://www.podchaser.com/f/pod/1491394342">Podchaser</a>
   <a class="listen-modal__item--rss" target="_blank" href="https://feeds.buzzsprout.com/758369.rss">RSS Feed</a>
 </div>
+<br /><br />
 <div style="text-align:center;">
     <br />
     <p><strong><em>Special Update for 7/19/2020</em>: TC and team interview <a href="https://twitter.com/nikolatrevor">Trevor Milton</a> of <a href="https://nikolamotor.com/">Nikola Motor</a>!</strong></p>
