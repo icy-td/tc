@@ -10,7 +10,7 @@
     <br>
     <hr width="80%">
     <div style="text-align:center;">
-    <strong>Check out TC's hella cool podcast, <a href="https://www.tcchartcast.com" target="_blank">TC's ChartCast</a>!<br />
+    <strong>Check out TC's hella cool podcast, <a href="https://www.tcchartcast.com" target="_blank">TC's ChartCast</a>!</strong><br />
     <a href="https://www.tcchartcast.com" target="_blank"><img src="https://www.teslacharts.net/chartcast-banner.png"></a></div>
 <div class="listen-modal__list" data-target="listing.iconList">
     
@@ -26,13 +26,44 @@
   <a class="listen-modal__item--castbox" target="_blank" href="http://castbox.fm/vic/1491394342?ref=buzzsprout">Castbox</a>
   <a class="listen-modal__item--podchaser" target="_blank" href="https://www.podchaser.com/f/pod/1491394342">Podchaser</a>
   <a class="listen-modal__item--rss" target="_blank" href="https://feeds.buzzsprout.com/758369.rss">RSS Feed</a>
-
+    <br />
+    <p><strong><em>Special Update for 7/19/2020</em>: TC and team interview <a href="https://twitter.com/nikolatrevor">Trevor Milton</a> of <a href="https://nikolamotor.com/">Nikola Motor</a>!</strong></p>
+    <br />
+    <img src="https://pbs.twimg.com/media/EdOhncMXsAAmQK8.png?name=small">
+    <h2><a href="">Listen now!</a></h2><br />
+    <a href="https://t.co/hX7R3YgVgz?amp=1">TC's Chartcast #35: Trevor Milton</a>
+    <br />
+    <script type="application/ld+json">
+{
+   "@context": "http://schema.org/",
+   "@type": "PodcastEpisode",
+   "url": "https://feeds.buzzsprout.com/758369/4605602-episode-35-trevor-milton",
+   "sameAs": ["https://feeds.buzzsprout.com/758369/4605602-episode-35-trevor-milton","https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz","https://www.stitcher.com/podcast/tcs-chartcast","https://overcast.fm/itunes1491394342/tcs-chartcast"],
+   "name": "#35: Trevor Milton",
+   "datePublished": "2020-07-19",
+   "timeRequired": "PT1H40M",
+   "description": "Join TC and Georgia as Trevor Milton, executive chairman of the high-flying company Nikola, sits down for a wide-ranging interview that lasted nearly two hours. With abundant energy and genuine enthusiasm, Milton fielded all questions head on. In an era characterized superficiality and empty sound bites, the conversation was refreshingly civil and comprehensive.",
+   "associatedMedia": {
+     "@type": "MediaObject",
+     "contentUrl": "https://www.buzzsprout.com/758369/4605602-episode-35-trevor-milton.mp3"
+   },
+   "partOfSeries": {
+     "@type": "PodcastSeries",
+     "name": "TC's ChartCast",
+     "url": "https://www.tcchartcast.com",
+     "sameAs": ["https://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
+   }
+ }
+}
+</script>
 </div>
+
 <hr width="80%">
 
 <h3>Site News</H3>
 
     <br><ul>
+    <li><strong>Live!</strong> - <em>07/19/2020</em> - Added Trevor Milton episode links.</li>
     <li><strong>Live!</strong> - <em>10/29/2019</em> - Indexing and tweeted. Will continue to backfill.</li>
     <li><strong>Live-ish</strong> - <em>10/22/2019</em> - TC.net is live, sort of. Work in progress. Whatever happened to those <a href="http://www.textfiles.com/underconstruction/" style="color:black;">Under Construction animated gifs of Web 1.0 yore</a>...</li>
     <li><strong>TC Chartcast first episode</strong> - <em>12/12/2019</em> - Download it <a href="https://episodes.buzzsprout.com/fhfgy28sti8f3snyf4xt48plzlhw?">here</a>, streaming service coming soon.</li>
