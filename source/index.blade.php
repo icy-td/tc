@@ -32,9 +32,9 @@
     <br />
     <p><strong><em>Special Update for 7/19/2020</em>: TC and team interview <a href="https://twitter.com/nikolatrevor">Trevor Milton</a> of <a href="https://nikolamotor.com/">Nikola Motor</a>!</strong></p>
     <br />
-    <img src="https://pbs.twimg.com/media/EdOhncMXsAAmQK8.png?name=small">
+    <img src="https://i.imgur.com/S1hmBkm.png">
     <h2><a href="">Listen now!</a></h2><br />
-    <a href="https://t.co/hX7R3YgVgz?amp=1">TC's Chartcast #35: Trevor Milton</a>
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">TC's Chartcast #35: Trevor Milton</a>
     <br />
     <script type="application/ld+json">
 {
