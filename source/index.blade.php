@@ -66,7 +66,7 @@
 <h3>Site News</H3>
 
     <br><ul>
-    <li><strong>Live!</strong> - <em>07/19/2020</em> - Added Trevor Milton episode links.</li>
+    <li><strong>Trevor Milton!</strong> - <em>07/19/2020</em> - Added Trevor Milton episode links.</li>
     <li><strong>Live!</strong> - <em>10/29/2019</em> - Indexing and tweeted. Will continue to backfill.</li>
     <li><strong>Live-ish</strong> - <em>10/22/2019</em> - TC.net is live, sort of. Work in progress. Whatever happened to those <a href="http://www.textfiles.com/underconstruction/" style="color:black;">Under Construction animated gifs of Web 1.0 yore</a>...</li>
     <li><strong>TC Chartcast first episode</strong> - <em>12/12/2019</em> - Download it <a href="https://episodes.buzzsprout.com/fhfgy28sti8f3snyf4xt48plzlhw?">here</a>, streaming service coming soon.</li>
