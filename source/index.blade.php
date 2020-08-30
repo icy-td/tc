@@ -30,6 +30,64 @@
 <br /><br />
 <div style="text-align:center;">
     <br />
+    <p><strong><em>Special Update for 8/30/2020</em>: TC and team interview Tesla whistleblower Karl Hansen</a>! Over two episodes, Karl accuses Tesla of spying on employees and critics and covering up theft of metal and drug trafficking.</strong></p>
+    <br />
+    <img src="https://teslacharts.net/tesla-whistleblower-karl-hansen.png">
+    <h2><a href="https://www.tcchartcast.com/5208532-episode-41-karl-hansen-part-one">Listen to the first Karl Hanson TC's Chartcast episode now!</a></h2><br />
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">TC's Chartcast #41: Karl Hansen</a>
+    <h2><a href="https://www.tcchartcast.com/5208613-episode-42-karl-hansen-part-two">Listen to the second Karl Hanson TC's Chartcast episode now!</a></h2><br />
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">TC's Chartcast #42: Karl Hansen</a>
+    <br />
+    <script type="application/ld+json">
+    {
+   "@context": "http://schema.org/",
+   "@type": "PodcastEpisode",
+   "url": "https://www.tcchartcast.com/5208532-episode-41-karl-hansen-part-one",
+   "sameAs": ["https://open.spotify.com/episode/5tJjPti9ELgE45uCcVPHYK","https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz/episode/QnV6enNwcm91dC01MjA4NTMy","https://overcast.fm/+WAFzFx9FE"],
+   "name": "#41: Karl Hansen",
+   "datePublished": "2020-08-30",
+   "timeRequired": "PT1H20M",
+   "description": "Join TC and Georgia for Part One of this explosive interview with Tesla whistleblower, Karl Hansen.",
+   "associatedMedia": {
+     "@type": "MediaObject",
+     "contentUrl": "https://www.buzzsprout.com/758369/5208532-episode-41-karl-hansen-part-one.mp3"
+   },
+   "partOfSeries": {
+     "@type": "PodcastSeries",
+     "name": "TC's ChartCast",
+     "url": "https://www.tcchartcast.com",
+     "sameAs": ["https://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
+   }
+ }
+}
+</script>
+<script type="application/ld+json">
+    {
+   "@context": "http://schema.org/",
+   "@type": "PodcastEpisode",
+   "url": "https://www.tcchartcast.com/5208613-episode-42-karl-hansen-part-two",
+   "sameAs": ["https://open.spotify.com/episode/7iPXagEB025eda922uFqt2","https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz/episode/QnV6enNwcm91dC01MjA4NjEz","https://overcast.fm/+WAFy3A7qg"],
+   "name": "#42: Karl Hansen",
+   "datePublished": "2020-08-30",
+   "timeRequired": "PT1H30M",
+   "description": "Join TC and Georgia for Part Two of this explosive interview with Tesla whistleblower, Karl Hansen.",
+   "associatedMedia": {
+     "@type": "MediaObject",
+     "contentUrl": "https://www.buzzsprout.com/758369/5208613-episode-42-karl-hansen-part-two.mp3"
+   },
+   "partOfSeries": {
+     "@type": "PodcastSeries",
+     "name": "TC's ChartCast",
+     "url": "https://www.tcchartcast.com",
+     "sameAs": ["https://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
+   }
+ }
+}
+</script>
+</div>
+<br /><br />
+<div style="text-align:center;">
+    <br />
     <p><strong><em>Special Update for 7/19/2020</em>: TC and team interview <a href="https://twitter.com/nikolatrevor">Trevor Milton</a> of <a href="https://nikolamotor.com/">Nikola Motor</a>!</strong></p>
     <br />
     <img src="https://i.imgur.com/S1hmBkm.png">
@@ -37,7 +95,7 @@
     <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">TC's Chartcast #35: Trevor Milton</a>
     <br />
     <script type="application/ld+json">
-{
+    {
    "@context": "http://schema.org/",
    "@type": "PodcastEpisode",
    "url": "https://feeds.buzzsprout.com/758369/4605602-episode-35-trevor-milton",
@@ -66,6 +124,7 @@
 <h3>Site News</H3>
 
     <br><ul>
+    <li><strong>Karl Hansen</strong> - <em>08/30/2020</em> - Added Karl Hansen episode links.</li>
     <li><strong>Trevor Milton!</strong> - <em>07/19/2020</em> - Added Trevor Milton episode links.</li>
     <li><strong>Live!</strong> - <em>10/29/2019</em> - Indexing and tweeted. Will continue to backfill.</li>
     <li><strong>Live-ish</strong> - <em>10/22/2019</em> - TC.net is live, sort of. Work in progress. Whatever happened to those <a href="http://www.textfiles.com/underconstruction/" style="color:black;">Under Construction animated gifs of Web 1.0 yore</a>...</li>
