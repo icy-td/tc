@@ -10,8 +10,8 @@
     <br>
     <hr width="80%">
     <div style="text-align:center;">
-    <strong>Check out TC's hella cool podcast, <a href="https://www.thechartcast.com" target="_blank">TC's ChartCast</a>!</strong><br />
-    <a href="https://www.thechartcast.com" target="_blank"><img src="https://thechartcast.com/wp-content/uploads/2020/10/the-chartcast-cover-art-logo.png"></a></div>
+    <strong>Check out TC's hella cool podcast, <a href="https://thechartcast.com" target="_blank">TC's ChartCast</a>!</strong><br />
+    <a href="https://thechartcast.com" target="_blank"><img src="https://thechartcast.com/wp-content/uploads/2020/10/the-chartcast-cover-art-logo.png"></a></div>
 <div class="listen-modal__list" data-target="listing.iconList">
     
   <a class="listen-modal__item--apple" target="_blank" href="https://podcasts.apple.com/us/podcast/tcs-chartcast/id1491394342?uo=4">Apple Podcasts</a>
@@ -55,7 +55,7 @@
    "partOfSeries": {
      "@type": "PodcastSeries",
      "name": "TC's ChartCast",
-     "url": "https://www.thechartcast.com",
+     "url": "https://thechartcast.com",
      "sameAs": ["http://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
    }
  }
@@ -78,7 +78,7 @@
    "partOfSeries": {
      "@type": "PodcastSeries",
      "name": "TC's ChartCast",
-     "url": "https://www.thechartcast.com",
+     "url": "https://thechartcast.com",
      "sameAs": ["http://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
    }
  }
@@ -111,7 +111,7 @@
    "partOfSeries": {
      "@type": "PodcastSeries",
      "name": "TC's ChartCast",
-     "url": "https://www.thechartcast.com",
+     "url": "https://thechartcast.com",
      "sameAs": ["https://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
    }
  }
