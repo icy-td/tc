@@ -10,8 +10,8 @@
     <br>
     <hr width="80%">
     <div style="text-align:center;">
-    <strong>Check out TC's hella cool podcast, <a href="https://www.tcchartcast.com" target="_blank">TC's ChartCast</a>!</strong><br />
-    <a href="https://www.tcchartcast.com" target="_blank"><img src="https://www.teslacharts.net/chartcast-banner.png"></a></div>
+    <strong>Check out TC's hella cool podcast, <a href="https://www.thechartcast.com" target="_blank">TC's ChartCast</a>!</strong><br />
+    <a href="https://www.thechartcast.com" target="_blank"><img src="https://thechartcast.com/wp-content/uploads/2020/10/the-chartcast-cover-art-logo.png"></a></div>
 <div class="listen-modal__list" data-target="listing.iconList">
     
   <a class="listen-modal__item--apple" target="_blank" href="https://podcasts.apple.com/us/podcast/tcs-chartcast/id1491394342?uo=4">Apple Podcasts</a>
@@ -33,16 +33,16 @@
     <p><strong><em>Special Update for 8/30/2020</em>: TC and team interview Tesla whistleblower Karl Hansen</a>! Over two episodes, Karl accuses Tesla of spying on employees and critics and covering up theft of metal and drug trafficking.</strong></p>
     <br />
     <img src="https://teslacharts.net/tesla-whistleblower-karl-hansen.png">
-    <h2><a href="https://www.tcchartcast.com/5208532-episode-41-karl-hansen-part-one">Listen to the first Karl Hanson TC's Chartcast episode now!</a></h2><br />
-    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">TC's Chartcast #41: Karl Hansen</a>
-    <h2><a href="https://www.tcchartcast.com/5208613-episode-42-karl-hansen-part-two">Listen to the second Karl Hanson TC's Chartcast episode now!</a></h2><br />
-    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">TC's Chartcast #42: Karl Hansen</a>
+    <h2><a href="https://thechartcast.com/episodes/episode-41-karl-hansen-part-one/">Listen to the first Karl Hanson The Chartcast episode now!</a></h2><br />
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">The Chartcast #41: Karl Hansen</a>
+    <h2><a href="https://thechartcast.com/episodes/episode-41-karl-hansen-part-two/">Listen to the second Karl Hanson The Chartcast episode now!</a></h2><br />
+    <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">The Chartcast #42: Karl Hansen</a>
     <br />
     <script type="application/ld+json">
     {
    "@context": "http://schema.org/",
    "@type": "PodcastEpisode",
-   "url": "https://www.tcchartcast.com/5208532-episode-41-karl-hansen-part-one",
+   "url": "https://thechartcast.com/episodes/episode-41-karl-hansen-part-one/",
    "sameAs": ["https://open.spotify.com/episode/5tJjPti9ELgE45uCcVPHYK","https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz/episode/QnV6enNwcm91dC01MjA4NTMy","https://overcast.fm/+WAFzFx9FE"],
    "name": "#41: Karl Hansen",
    "datePublished": "2020-08-30",
@@ -55,8 +55,8 @@
    "partOfSeries": {
      "@type": "PodcastSeries",
      "name": "TC's ChartCast",
-     "url": "https://www.tcchartcast.com",
-     "sameAs": ["https://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
+     "url": "https://www.thechartcast.com",
+     "sameAs": ["http://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
    }
  }
 }
@@ -65,7 +65,7 @@
     {
    "@context": "http://schema.org/",
    "@type": "PodcastEpisode",
-   "url": "https://www.tcchartcast.com/5208613-episode-42-karl-hansen-part-two",
+   "url": "https://thechartcast.com/episodes/episode-42-karl-hansen-part-two/",
    "sameAs": ["https://open.spotify.com/episode/7iPXagEB025eda922uFqt2","https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz/episode/QnV6enNwcm91dC01MjA4NjEz","https://overcast.fm/+WAFy3A7qg"],
    "name": "#42: Karl Hansen",
    "datePublished": "2020-08-30",
@@ -78,8 +78,8 @@
    "partOfSeries": {
      "@type": "PodcastSeries",
      "name": "TC's ChartCast",
-     "url": "https://www.tcchartcast.com",
-     "sameAs": ["https://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
+     "url": "https://www.thechartcast.com",
+     "sameAs": ["http://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
    }
  }
 }
@@ -98,7 +98,7 @@
     {
    "@context": "http://schema.org/",
    "@type": "PodcastEpisode",
-   "url": "https://feeds.buzzsprout.com/758369/4605602-episode-35-trevor-milton",
+   "url": "https://thechartcast.com/episodes/episode-35-trevor-milton/",
    "sameAs": ["https://feeds.buzzsprout.com/758369/4605602-episode-35-trevor-milton","https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz","https://www.stitcher.com/podcast/tcs-chartcast","https://overcast.fm/itunes1491394342/tcs-chartcast"],
    "name": "#35: Trevor Milton",
    "datePublished": "2020-07-19",
@@ -111,7 +111,7 @@
    "partOfSeries": {
      "@type": "PodcastSeries",
      "name": "TC's ChartCast",
-     "url": "https://www.tcchartcast.com",
+     "url": "https://www.thechartcast.com",
      "sameAs": ["https://www.tcchartcast.net","https://feeds.buzzsprout.com/758369"]
    }
  }
