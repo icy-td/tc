@@ -35,7 +35,7 @@
     <img src="https://teslacharts.net/tesla-whistleblower-karl-hansen.png">
     <h2><a href="https://thechartcast.com/episodes/episode-41-karl-hansen-part-one/">Listen to the first Karl Hanson The Chartcast episode now!</a></h2><br />
     <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">The Chartcast #41: Karl Hansen</a>
-    <h2><a href="https://thechartcast.com/episodes/episode-41-karl-hansen-part-two/">Listen to the second Karl Hanson The Chartcast episode now!</a></h2><br />
+    <h2><a href="https://thechartcast.com/episodes/episode-42-karl-hansen-part-two/ ">Listen to the second Karl Hanson The Chartcast episode now!</a></h2><br />
     <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS83NTgzNjkucnNz">The Chartcast #42: Karl Hansen</a>
     <br />
     <script type="application/ld+json">
